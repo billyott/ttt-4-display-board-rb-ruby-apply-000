@@ -7,6 +7,3 @@ def display_board(moves = [" "," "," "," "," "," "," "," "," "])
   puts "-----------"
   puts " #{moves[6]} | #{moves[7]} | #{moves[8]} "
 end
-
-def display_board(moves)
-end
